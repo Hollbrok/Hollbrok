@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**Hollbrok/Hollbrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi buddy 👋
+## There is some __information__ about me
+- 🔭 I’m currently working on __CPU__
+- 🌱 I’m currently learning __C++__ language and __Assembler__.
+- 📫 How to reach me: [__VK__](https://vk.com/danik.princessa) .
+- 😄 I'm a __MIPT__ student -->
+## There are my project on __C__ language:
+- [X] Solve square equation. [github](https://github.com/Hollbrok/SolveSquare).
+    - [ ] Readme file.
+- [X] Onegin. [github](https://github.com/Hollbrok/Onegin)
+    - [ ] Readme file. 
+- [X] Stack. [github](https://github.com/Hollbrok/STACK)
+    - [X] Readme file.
+- [X] CPU. [github](https://github.com/Hollbrok/CPU_C_VERSION)
+    - [X] Readme file.
+- [ ] List
+- [ ] Akinator
+- [ ] Programming language
+## There are my project on __C++__ language.
+- [ ] Stack
+- [ ] CPU
