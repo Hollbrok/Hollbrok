@@ -25,5 +25,7 @@
 
 ## __FEEDBACKS__
 If you consider any of my projects worthy, then you can rate it
-* <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Hollbrok/SolveSquare" data-show-count="true" aria-label="Star Hollbrok/SolveSquare on GitHub">Star</a>
+* <a class="github-button" href="https://github.com/Hollbrok/SolveSquare" data-show-count="true" aria-label="Star Hollbrok/SolveSquare on GitHub">SSE</a>
+* <a class="github-button" href="https://github.com/Hollbrok/Onegin" data-show-count="true" aria-label="Star Hollbrok/Onegin on GitHub">Onegin</a>
+* <a class="github-button" href="https://github.com/Hollbrok/Stack" data-show-count="true" aria-label="Star Hollbrok/Stack on GitHub">Stack</a>
+* <a class="github-button" href="https://github.com/Hollbrok/CPU_C_VERSION" data-show-count="true" aria-label="Star Hollbrok/CPU_C_VERSION on GitHub">CPU</a>
