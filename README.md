@@ -1,7 +1,7 @@
 # Hi buddy 👋
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<a class="github-button" href="https://github.com/Hollbrok" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow @Hollbrok</a>
+
+<!-- Place this tag where you want the button to render. -->
+<GitHubButton href="https://github.com/Hollbrok" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow @Hollbrok</GitHubButton>
 
 
 ## There is some __information__ about me
