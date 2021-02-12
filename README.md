@@ -29,3 +29,6 @@ If you consider any of my projects worthy, then you can rate it
 * <a class="github-button" href="https://github.com/Hollbrok/CPU_C_VERSION" data-show-count="true" aria-label="Star Hollbrok/CPU_C_VERSION on GitHub">CPU</a>
 
 And u also con <a class="github-button" href="https://github.com/Hollbrok" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow</a> me ❤️ .
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Hollbrok/CPU_C_VERSION/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch Hollbrok/CPU_C_VERSION on GitHub">Watch</a>
