@@ -28,5 +28,5 @@ If you consider any of my projects worthy, then you can rate it
 * <a class="github-button" href="https://github.com/Hollbrok/Stack" data-show-count="true" aria-label="Star Hollbrok/Stack on GitHub">Stack</a>
 * <a class="github-button" href="https://github.com/Hollbrok/CPU_C_VERSION" data-show-count="true" aria-label="Star Hollbrok/CPU_C_VERSION on GitHub">CPU</a>
 
-And u also con <a class="github-button" href="https://github.com/Hollbrok" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow</a> me ❤️ .
+And u also can <a class="github-button" href="https://github.com/Hollbrok" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow</a> me ❤️ .
 
