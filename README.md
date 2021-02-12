@@ -5,7 +5,7 @@
 - 📫 How to reach me: [__VK__](https://vk.com/danik.princessa) .
 - 😄 I'm a __MIPT__ student -->
 ## There are my project on __C__ language:
-- [X] Solve square equation. [SSE github](https://github.com/Hollbrok/SolveSquare).
+- [X] Solve square equation. [SSE github](https://github.com/Hollbrok/SolveSquare)
     - [ ] Readme file.
 - [X] Onegin. [Onegin github](https://github.com/Hollbrok/Onegin)
     - [ ] Readme file. 
