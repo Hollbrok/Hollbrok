@@ -1,7 +1,5 @@
 # Hi buddy 👋
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 <a class="github-button" href="https://github.com/Hollbrok" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow @Hollbrok</a>
 
 ## There is some __information__ about me
@@ -10,7 +8,8 @@
 - 📫 How to reach me: [__VK__](https://vk.com/danik.princessa) .
 - 😄 I'm a __MIPT__ student -->
 ## There are my projects on __C__ language:
-- [X] Solve square equation. [SSE github](https://github.com/Hollbrok/SolveSquare)
+- [X] Solve square equation. [SSE github](https://github.com/Hollbrok/SolveSquare). <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Hollbrok/SolveSquare" data-show-count="true" aria-label="Star Hollbrok/SolveSquare on GitHub">Star</a>
     - [ ] Readme file.
 - [X] Onegin. [Onegin github](https://github.com/Hollbrok/Onegin)
     - [ ] Readme file. 
