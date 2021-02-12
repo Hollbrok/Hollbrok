@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning __C++__ language and __Assembler__.
 - 📫 How to reach me: [__VK__](https://vk.com/danik.princessa) .
 - 😄 I'm a __MIPT__ student -->
-## There are my project on __C__ language:
+## There are my projects on __C__ language:
 - [X] Solve square equation. [SSE github](https://github.com/Hollbrok/SolveSquare)
     - [ ] Readme file.
 - [X] Onegin. [Onegin github](https://github.com/Hollbrok/Onegin)
@@ -16,6 +16,6 @@
 - [ ] List
 - [ ] Akinator
 - [ ] Programming language
-## There are my project on __C++__ language.
+## There are my projects on __C++__ language.
 - [ ] Stack
 - [ ] CPU
