@@ -1,18 +1,6 @@
 # Hi buddy 👋
-
-
-import GithubButton from 'vue-github-button'
-
-export default {
-  components: {
-    GithubButton
-  },
-  // ...
-}
-<github-button href="https://github.com/Hollbrok" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow @Hollbrok</github-button>
-
-
-
+<!-- Place this tag where you want the button to render. -->
+<GitHubButton href="https://github.com/Hollbrok" data-color-scheme="no-preference: dark; light: свет; dark: тьма;" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow @Hollbrok</GitHubButton>
 ## There is some __information__ about me
 - 🔭 I’m currently working on __CPU__
 - 🌱 I’m currently learning __C++__ language and __Assembler__.
