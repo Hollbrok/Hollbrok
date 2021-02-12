@@ -1,7 +1,7 @@
 # Hi buddy 👋
 
-<GitHubButton href="https://github.com/Hollbrok" data-color-scheme="no-preference: dark; light: свет; dark: тьма;" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow @Hollbrok</GitHubButton>
-import GitHubButton from 'react-github-btn'
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script><a class="github-button" href="https://github.com/Hollbrok" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow @Hollbrok</a>
 
 ## There is some __information__ about me
 - 🔭 I’m currently working on __CPU__
