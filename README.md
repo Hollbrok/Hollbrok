@@ -1,6 +1,8 @@
 # Hi buddy 👋
-<!-- Place this tag where you want the button to render. -->
+
 <GitHubButton href="https://github.com/Hollbrok" data-color-scheme="no-preference: dark; light: свет; dark: тьма;" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow @Hollbrok</GitHubButton>
+import GitHubButton from 'react-github-btn'
+
 ## There is some __information__ about me
 - 🔭 I’m currently working on __CPU__
 - 🌱 I’m currently learning __C++__ language and __Assembler__.
