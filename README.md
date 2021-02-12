@@ -1,7 +1,5 @@
 # Hi buddy 👋
 
-<a class="github-button" href="https://github.com/Hollbrok" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow @Hollbrok</a>
-
 ## There is some __information__ about me
 - 🔭 I’m currently working on __CPU__
 - 🌱 I’m currently learning __C++__ language and __Assembler__.
@@ -29,3 +27,4 @@ If you consider any of my projects worthy, then you can rate it
 * <a class="github-button" href="https://github.com/Hollbrok/Onegin" data-show-count="true" aria-label="Star Hollbrok/Onegin on GitHub">Onegin</a>
 * <a class="github-button" href="https://github.com/Hollbrok/Stack" data-show-count="true" aria-label="Star Hollbrok/Stack on GitHub">Stack</a>
 * <a class="github-button" href="https://github.com/Hollbrok/CPU_C_VERSION" data-show-count="true" aria-label="Star Hollbrok/CPU_C_VERSION on GitHub">CPU</a>
+And also follow me ❤️ <script async defer src="https://buttons.github.io/buttons.js"><<a class="github-button" href="https://github.com/Hollbrok" data-show-count="true" aria-label="Follow @Hollbrok on GitHub">Follow @Hollbrok</a>>
