@@ -8,8 +8,7 @@
 - 📫 How to reach me: [__VK__](https://vk.com/danik.princessa) .
 - 😄 I'm a __MIPT__ student -->
 ## There are my projects on __C__ language:
-- [X] Solve square equation. [SSE github](https://github.com/Hollbrok/SolveSquare). <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Hollbrok/SolveSquare" data-show-count="true" aria-label="Star Hollbrok/SolveSquare on GitHub">Star</a>
+- [X] Solve square equation. [SSE github](https://github.com/Hollbrok/SolveSquare)
     - [ ] Readme file.
 - [X] Onegin. [Onegin github](https://github.com/Hollbrok/Onegin)
     - [ ] Readme file. 
@@ -23,3 +22,8 @@
 ## There are my projects on __C++__ language.
 - [ ] Stack
 - [ ] CPU
+
+## __FEEDBACKS__
+If you consider any of my projects worthy, then you can rate it
+* <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Hollbrok/SolveSquare" data-show-count="true" aria-label="Star Hollbrok/SolveSquare on GitHub">Star</a>
