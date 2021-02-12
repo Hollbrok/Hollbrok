@@ -5,13 +5,13 @@
 - 📫 How to reach me: [__VK__](https://vk.com/danik.princessa) .
 - 😄 I'm a __MIPT__ student -->
 ## There are my project on __C__ language:
-- [X] Solve square equation. [github](https://github.com/Hollbrok/SolveSquare).
+- [X] Solve square equation. [SSE github](https://github.com/Hollbrok/SolveSquare).
     - [ ] Readme file.
-- [X] Onegin. [github](https://github.com/Hollbrok/Onegin)
+- [X] Onegin. [Onegin github](https://github.com/Hollbrok/Onegin)
     - [ ] Readme file. 
-- [X] Stack. [github](https://github.com/Hollbrok/STACK)
+- [X] Stack. [Stack github](https://github.com/Hollbrok/STACK)
     - [X] Readme file.
-- [X] CPU. [github](https://github.com/Hollbrok/CPU_C_VERSION)
+- [X] CPU. [CPU github](https://github.com/Hollbrok/CPU_C_VERSION)
     - [X] Readme file.
 - [ ] List
 - [ ] Akinator
