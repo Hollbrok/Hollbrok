@@ -14,6 +14,8 @@
     - [X] Readme file.
 - [X] CPU. [CPU github](https://github.com/Hollbrok/CPU_C_VERSION)
     - [X] Readme file.
+- [X] Calculator. [Calculator github](https://github.com/Hollbrok/v.2-of-calculator)
+    - [X] Readme file.
 - [ ] List
 - [ ] Akinator
 - [ ] Programming language
