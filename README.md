@@ -7,15 +7,15 @@
 - 😄 I'm a __MIPT__ student
 ## There are my projects on __C__ language:
 - [X] Solve square equation. [SSE github](https://github.com/Hollbrok/SolveSquare)
-    - [ ] Readme file.
+    - [ ] __Readme file__.
 - [X] Onegin. [Onegin github](https://github.com/Hollbrok/Onegin)
-    - [ ] Readme file. 
+    - [ ] __Readme file__. 
 - [X] Stack. [Stack github](https://github.com/Hollbrok/STACK)
-    - [X] [Readme file](https://github.com/Hollbrok/STACK).
+    - [X] [__Readme file__](https://github.com/Hollbrok/STACK).
 - [X] CPU. [CPU github](https://github.com/Hollbrok/CPU_C_VERSION)
-    - [X] [Readme file](https://github.com/Hollbrok/CPU_C_VERSION).
+    - [X] [__Readme file__](https://github.com/Hollbrok/CPU_C_VERSION).
 - [X] Calculator. [Calculator github](https://github.com/Hollbrok/v.2-of-calculator)
-    - [X] [Readme file](https://github.com/Hollbrok/v.2-of-calculator).
+    - [X] [__Readme file__](https://github.com/Hollbrok/v.2-of-calculator).
 - [ ] List
 - [ ] Akinator
 - [ ] Programming language
