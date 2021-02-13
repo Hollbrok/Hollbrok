@@ -6,15 +6,15 @@
 - 📫 How to reach me: [__VK__](https://vk.com/danik.princessa). 
 - 😄 I'm a __MIPT__ student
 ## There are my projects on __C__ language:
-- [X] Solve square equation. [SSE github](https://github.com/Hollbrok/SolveSquare)
+- [X] [Solve Square Equation git](https://github.com/Hollbrok/SolveSquare)
     - [ ] __Readme file__.
-- [X] Onegin. [Onegin github](https://github.com/Hollbrok/Onegin)
+- [X] [Onegin git](https://github.com/Hollbrok/Onegin)
     - [ ] __Readme file__. 
-- [X] Stack. [Stack github](https://github.com/Hollbrok/STACK)
+- [X] [Stack git](https://github.com/Hollbrok/STACK)
     - [X] [__Readme file__](https://github.com/Hollbrok/STACK).
-- [X] CPU. [CPU github](https://github.com/Hollbrok/CPU_C_VERSION)
+- [X] [CPU git](https://github.com/Hollbrok/CPU_C_VERSION)
     - [X] [__Readme file__](https://github.com/Hollbrok/CPU_C_VERSION).
-- [X] Calculator. [Calculator github](https://github.com/Hollbrok/v.2-of-calculator)
+- [X] [Calculator gith](https://github.com/Hollbrok/v.2-of-calculator)
     - [X] [__Readme file__](https://github.com/Hollbrok/v.2-of-calculator).
 - [ ] List
 - [ ] Akinator
