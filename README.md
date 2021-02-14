@@ -2,7 +2,7 @@
 
 ## There is some __information__ about me
 - 👨‍💻 I’m currently working on __CPU__ from 12🕛 a.m to 12🕛 p.m.
-- 💻 I’m  learning ~~__PascalABC__~~ __C++__ language and __Assembler__ __now___.
+- 💻 I’m  learning ~~__PascalABC__~~ __C++__ language and __Assembler__ __now__.
 - 📫 How to reach me: [__VK__](https://vk.com/danik.princessa). 
 - 😄 I'm a __MIPT__ student
 ## There are my projects on __C__ language:
