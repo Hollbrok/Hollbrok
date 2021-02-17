@@ -5,7 +5,7 @@
 - 💻 I’m  learning ~~__PascalABC__~~ __C++__ language and __Assembler__ __now__.
 - 📫 How to reach me: [__VK__](https://vk.com/danik.princessa). 
 - 😄 I'm a __MIPT__ student
-## There are my projects on __C__ language:
+## There are my projects on __C__ language for ILAB course:
 - [X] [Solve Square Equation git](https://github.com/Hollbrok/SolveSquare)
     - [X] __Readme file__.
 - [X] [Onegin git](https://github.com/Hollbrok/Onegin)
