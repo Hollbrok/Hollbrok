@@ -7,9 +7,9 @@
 - 😄 I'm a __MIPT__ student
 ## There are my projects on __C__ language for ILAB course:
 - [X] [Solve Square Equation git](https://github.com/Hollbrok/SolveSquare)
-    - [X] __Readme file__.
+    - [X] [__Readme file__](https://github.com/Hollbrok/SolveSquare).
 - [X] [Onegin git](https://github.com/Hollbrok/Onegin)
-    - [X] __Readme file__. 
+    - [X] [__Readme file__](https://github.com/Hollbrok/Onegin). 
 - [X] [Stack git](https://github.com/Hollbrok/STACK)
     - [X] [__Readme file__](https://github.com/Hollbrok/STACK).
 - [X] [CPU git](https://github.com/Hollbrok/CPU_C_VERSION)
