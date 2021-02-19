@@ -26,7 +26,7 @@ ____________
 - [ ] CPU
 ____________
 ## If ur the mipt student!
-Check this [useful git](https://github.com/Hollbrok/MIPT_LABS).
+Check this [__useful git__](https://github.com/Hollbrok/MIPT_LABS).
 _____________
 ## __FEEDBACKS__
 If you consider any of my projects worthy, then you can rate it
