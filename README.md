@@ -23,6 +23,9 @@
 - [ ] Stack
 - [ ] CPU
 
+## If ur the mipt student!
+Check this [useful git](https://github.com/Hollbrok/MIPT_LABS).
+
 ## __FEEDBACKS__
 If you consider any of my projects worthy, then you can rate it
 * <a class="github-button" href="https://github.com/Hollbrok/SolveSquare" data-show-count="true" aria-label="Star Hollbrok/SolveSquare on GitHub">SSE</a>
