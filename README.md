@@ -27,7 +27,7 @@ ____________
 ____________
 ## FOR __mipt__ students!
 * Check this [__git__](https://github.com/Hollbrok/MIPT_LABS) if you want to get already done laboratory work.
-* If you want to enlarge laboratory works database or just already done homeworks write to [me](https://vk.com/danik.princessa) this.
+* If you want to enlarge laboratory works database or just already done homeworks write to [me](https://vk.com/danik.princessa), thx ❤️!
 _____________
 ## __FEEDBACKS__
 If you consider any of my projects worthy, then you can rate it
