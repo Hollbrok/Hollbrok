@@ -15,7 +15,7 @@ __________
     - [X] [__Readme file__](https://github.com/Hollbrok/STACK).
 - [X] [CPU git](https://github.com/Hollbrok/CPU_C_VERSION)
     - [X] [__Readme file__](https://github.com/Hollbrok/CPU_C_VERSION).
-- [X] [Calculator gith](https://github.com/Hollbrok/v.2-of-calculator)
+- [X] [Calculator git](https://github.com/Hollbrok/v.2-of-calculator)
     - [X] [__Readme file__](https://github.com/Hollbrok/v.2-of-calculator).
 - [ ] List
 - [ ] Akinator
