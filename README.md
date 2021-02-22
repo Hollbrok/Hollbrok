@@ -1,4 +1,4 @@
-# 🔤Hello World!🔤 👋
+# 🔤std::cout << "Hello, World!" << endl; 🔤
 _________
 ## There is some __information__ about me
 - 👨‍💻 I’m currently working on __CPU__ from 12🕛 a.m to 12🕛 p.m.
