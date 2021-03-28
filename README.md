@@ -19,10 +19,11 @@ __________
     - [X] [__Readme file__](https://github.com/Hollbrok/v.2-of-calculator).
 - [ ] List
 - [ ] Akinator
+- [ ] Differentiator
 - [ ] Programming language
 ____________
 ## There are my projects on __C++__ language.
-- [X] Stack
+- [X] [__Stack__](https://github.com/Hollbrok/Stack_cpp_version);
 - [ ] CPU
 ____________
 ## FOR __mipt__ students!
