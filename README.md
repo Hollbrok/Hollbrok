@@ -23,7 +23,7 @@ __________
 - [ ] Programming language
 ____________
 ## There are my projects on __C++__ language.
-- [X] [__Stack__](https://github.com/Hollbrok/Stack_cpp_version);
+- [X] [__Stack__](https://github.com/Hollbrok/Stack_cpp_version)
 - [ ] CPU
 ____________
 ## FOR __mipt__ students!
