@@ -22,7 +22,7 @@ __________
 - [ ] Programming language
 ____________
 ## There are my projects on __C++__ language.
-- [ ] Stack
+- [X] Stack
 - [ ] CPU
 ____________
 ## FOR __mipt__ students!
