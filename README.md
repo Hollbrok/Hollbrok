@@ -24,7 +24,7 @@ __________
 ____________
 ## There are my projects on __C++__ language.
 - [X] [__Stack__](https://github.com/Hollbrok/Stack_cpp_version)
-- [X] [__CPU__]((https://github.com/Hollbrok/CPU_cpp_version)
+- [X] [__CPU__](https://github.com/Hollbrok/CPU_cpp_version)
 ____________
 ## FOR __mipt__ students!
 * Check this [__git__](https://github.com/Hollbrok/MIPT_LABS) if you want to get already done laboratory work.
