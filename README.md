@@ -1,10 +1,10 @@
 # 🔤std::cout << "Hello, World!" << endl; 🔤
 _________
 ## There is some __information__ about me
-- 👨‍💻 I’m currently working on __CPU__ .
-- 💻 I’m  learning ~~__C__~~ __C++ language__ and __Assembler__.
-- 📫 How to reach me: [__VK__](https://vk.com/danik.princessa). 
-- 😄 I'm a __MIPT__ student
+* 👨‍💻 I’m currently working on __CPU__ .
+* 💻 I’m  learning ~~__C__~~ __C++ language__ and __Assembler__.
+* 📫 How to reach me: [__VK__](https://vk.com/danik.princessa). 
+* 😄 I'm a __MIPT__ student
 __________
 ## There are my projects on __C__ language for ILAB course:
 - [X] [Solve Square Equation git](https://github.com/Hollbrok/SolveSquare)
