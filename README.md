@@ -27,8 +27,8 @@
 </details>
 
 - [X] MIPT labs <details><summary></summary>
-    - [X] [1'st semestr]()
-    - [X] [2'nd semestr]()
+    - [X] [1'st semestr](https://github.com/Hollbrok/MIPT_LABS/tree/main/labs%201%20sem)
+    - [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_LABS/tree/main/labs%202%20sem)
     </details>
     
     
