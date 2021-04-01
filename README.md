@@ -1,5 +1,5 @@
 # My projects:
-- [ ] There are my projects for ILAB course:<details><summary></summary>
+- [ ] My projects for ILAB course:<details><summary></summary>
     - [X] 1 семестр: <details><summary></summary>
         - [X] [Solve Square Equation](https://github.com/Hollbrok/SolveSquare)
         - [X] [Onegin](https://github.com/Hollbrok/Onegin)
@@ -17,15 +17,32 @@
         - [ ] Programming language
     </details>
 </details>
-____________
-## There are my projects on __C++__ language.
-- [X] [__Stack__](https://github.com/Hollbrok/Stack_cpp_version)
-- [X] [__CPU__](https://github.com/Hollbrok/CPU_cpp_version)
-____________
-## FOR __mipt__ students!
-* Check this [__git__](https://github.com/Hollbrok/MIPT_LABS) if you want to get already done laboratory work.
-* If you want to enlarge laboratory works database or just already done homeworks write to [me](https://vk.com/danik.princessa), thx ❤️!
-_____________
+
+- [X] Homework for GET (General engineering training)<details><summary></summary>
+    - [X] [Libre Office](https://github.com/Hollbrok/test-rep/tree/master/LibreOffice)
+    - [X] [MATLAB](https://github.com/Hollbrok/test-rep/tree/master/MATLAB)
+    - [X] [Git](https://github.com/Hollbrok/test-rep/tree/master/Git)
+    - [X] [GPIO](https://github.com/Hollbrok/Raspberry)
+    - [ ] ...
+</details>
+
+- [X] MIPT labs <details><summary></summary>
+    - [X] [1'st semestr]()
+    - [X] [2'nd semestr]()
+    </details>
+    
+    
+</details>
+
+- [X] Additional course FPGA <details><summary></summary>
+    - [X] Critical path
+    - [X] D-latch, SR-latch, D-flipflop
+    - [X] four-segment indicator
+    - [X] Gray counter with ROM
+    - [X] Resynchronizer of clocks domains
+
+</details>
+
 ## __FEEDBACKS__
 If you consider any of my projects worthy, then you can rate it
 * <a class="github-button" href="https://github.com/Hollbrok/SolveSquare" data-show-count="true" aria-label="Star Hollbrok/SolveSquare on GitHub">SSE</a>
