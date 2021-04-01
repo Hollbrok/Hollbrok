@@ -22,8 +22,8 @@
     - [X] [Libre Office](https://github.com/Hollbrok/test-rep/tree/master/LibreOffice)
     - [X] [MATLAB](https://github.com/Hollbrok/test-rep/tree/master/MATLAB)
     - [X] [Git](https://github.com/Hollbrok/test-rep/tree/master/Git)
-    - [X] [GPIO](https://github.com/Hollbrok/Raspberry)
-    - [ ] ...
+    - [X] [GPIO](https://github.com/Hollbrok/Raspberry/tree/main/GPIO)
+    - [X] [DAC](https://github.com/Hollbrok/Raspberry/tree/main/DAC)
 </details>
 
 - [X] MIPT labs <details><summary></summary>
