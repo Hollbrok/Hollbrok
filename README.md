@@ -1,5 +1,5 @@
 # My projects:
-- [ ] There are my projects for ILAB course:
+- [ ] There are my projects for ILAB course:<details><summary></summary>
     - [X] 1 семестр: <details><summary></summary>
         - [X] [Solve Square Equation](https://github.com/Hollbrok/SolveSquare)
         - [X] [Onegin](https://github.com/Hollbrok/Onegin)
@@ -16,6 +16,7 @@
         - [ ] Differentiator
         - [ ] Programming language
     </details>
+</details>
 ____________
 ## There are my projects on __C++__ language.
 - [X] [__Stack__](https://github.com/Hollbrok/Stack_cpp_version)
