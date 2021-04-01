@@ -1,13 +1,19 @@
 # My projects:
-* There are my projects for ILAB course:<details><summary></summary>
-- [X] [Solve Square Equation git](https://github.com/Hollbrok/SolveSquare)
-    - [X] [__Readme file__](https://github.com/Hollbrok/SolveSquare).
-- [X] [Onegin git](https://github.com/Hollbrok/Onegin)
-    - [X] [__Readme file__](https://github.com/Hollbrok/Onegin). 
-- [X] [Stack git](https://github.com/Hollbrok/STACK)
-    - [X] [__Readme file__](https://github.com/Hollbrok/STACK).
+* There are my projects for ILAB course:
+- [X] 1 семестр: <details><summary></summary>
+    - [X] [Solve Square Equation git](https://github.com/Hollbrok/SolveSquare)
+        - [X] [__Readme file__](https://github.com/Hollbrok/SolveSquare).
+    - [X] [Onegin git](https://github.com/Hollbrok/Onegin)
+        - [X] [__Readme file__](https://github.com/Hollbrok/Onegin).
+    - [X] [Stack git](https://github.com/Hollbrok/STACK)
+        - [X] [__Readme file__](https://github.com/Hollbrok/STACK).
+    </details>
+- [ ] 2 семестр <details><summary></summary>
 - [X] [CPU git](https://github.com/Hollbrok/CPU_C_VERSION)
     - [X] [__Readme file__](https://github.com/Hollbrok/CPU_C_VERSION).
+- [X] Рефакторинг прошлых проектор на __C++__
+    - [X] [Stack](https://github.com/Hollbrok/Stack_cpp_version)
+    - [X] [CPU](https://github.com/Hollbrok/CPU_Cpp_version) 
 - [X] [Calculator git](https://github.com/Hollbrok/v.2-of-calculator)
     - [X] [__Readme file__](https://github.com/Hollbrok/v.2-of-calculator).
 - [ ] List
