@@ -35,10 +35,9 @@
 </details>
 
 - [X] Additional course FPGA <details><summary></summary>
-    - [X] Critical path
-    - [X] D-latch, SR-latch, D-flipflop
-    - [X] four-segment indicator
-    - [X] Gray counter with ROM
-    - [X] Resynchronizer of clocks domains
-
+    - [X] [Critical path]()
+    - [X] [D-latch, SR-latch, D-flipflop](https://github.com/Hollbrok/Verilog/tree/main/homework%201)
+    - [X] [four-segment indicator + counter](https://github.com/Hollbrok/Verilog/tree/main/homework%202)
+    - [X] [Gray counter with ROM](https://github.com/Hollbrok/Verilog/tree/main/homework%203)
+    - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
 </details>
