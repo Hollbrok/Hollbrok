@@ -8,8 +8,8 @@
     - [ ] 2 семестр <details><summary></summary>
         - [X] [CPU](https://github.com/Hollbrok/CPU_C_VERSION)
         - [X] Рефакторинг прошлых проектор на __C++__
-            - [X] [Stack](https://github.com/Hollbrok/Stack_cpp_version)
-            - [X] [CPU](https://github.com/Hollbrok/CPU_Cpp_version) 
+            - [X] [Stack_cpp](https://github.com/Hollbrok/Stack_cpp_version)
+            - [X] [CPU_cpp](https://github.com/Hollbrok/CPU_Cpp_version) 
         - [X] [Calculator](https://github.com/Hollbrok/v.2-of-calculator)
         - [ ] List
         - [ ] Akinator
