@@ -1,20 +1,18 @@
 # My projects:
 - [ ] My projects for __ILAB__ course:<details><summary></summary>
     - [X] __1 semestr__: <details><summary></summary>
-        - [X] [Solve Square Equation](https://github.com/Hollbrok/SolveSquare)
-        - [X] [Onegin](https://github.com/Hollbrok/Onegin)
-        - [X] [Stack](https://github.com/Hollbrok/STACK)
+        - [X] [__Solve Square Equation__](https://github.com/Hollbrok/SolveSquare)
+        - [X] [__Onegin__](https://github.com/Hollbrok/Onegin)
+        - [X] [__Stack__](https://github.com/Hollbrok/STACK)
         </details>
     - [ ] __2 semestr__ <details><summary></summary>
-        - [X] [CPU](https://github.com/Hollbrok/CPU_C_VERSION)
-        - [X] [List](https://github.com/Hollbrok/List) (pointers version).
+        - [X] [__CPU__](https://github.com/Hollbrok/CPU_C_VERSION)
         - [X] Рефакторинг прошлых проектор на __C++__
-            - [X] [Stack_cpp](https://github.com/Hollbrok/Stack_cpp_version)
-            - [X] [CPU_cpp](https://github.com/Hollbrok/CPU_Cpp_version) 
-            - [X] [List](https://github.com/Hollbrok/List)
-        - [X] [Calculator](https://github.com/Hollbrok/v.2-of-calculator)
-        - [ ] List
-        - [ ] Akinator
+            - [X] [__Stack_cpp__](https://github.com/Hollbrok/Stack_cpp_version)
+            - [X] [__CPU_cpp__](https://github.com/Hollbrok/CPU_Cpp_version) 
+        - [X] [__Calculator__](https://github.com/Hollbrok/v.2-of-calculator)
+        - [X] [__List__ / pointers version](https://github.com/Hollbrok/List) (C++ version)
+        - [ ] [__Akinator__](https://github.com/Hollbrok/Akinator)
         - [ ] Differentiator
         - [ ] Programming language
     </details>
