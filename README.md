@@ -7,7 +7,7 @@
         </details>
     - [ ] __2 semestr__ <details><summary></summary>
         - [X] [CPU](https://github.com/Hollbrok/CPU_C_VERSION)
-        - [X] [List](https://github.com/Hollbrok/List) (pointer version).
+        - [X] [List](https://github.com/Hollbrok/List) (pointers version).
         - [X] Рефакторинг прошлых проектор на __C++__
             - [X] [Stack_cpp](https://github.com/Hollbrok/Stack_cpp_version)
             - [X] [CPU_cpp](https://github.com/Hollbrok/CPU_Cpp_version) 
