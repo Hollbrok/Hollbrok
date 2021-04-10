@@ -44,12 +44,15 @@
 
 </br>
 
-<p align="left" >  
+<p align="right" >  
   <a href="https://pornhub.com"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=dracula"/>
   </a>
   </p>
   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="right" >  
+  <a href="https://pornhub.com"> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&hide=TeX&&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
+  </p>
+  
