@@ -50,9 +50,7 @@
   </a>
   </p>
   
-<p align="right" >  
-  <a href="https://pornhub.com"> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&hide=TeX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-  </p>
+
   
