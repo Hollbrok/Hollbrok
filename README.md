@@ -42,7 +42,7 @@
     - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
 </details>
 
-<\br>
+</br>
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
