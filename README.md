@@ -34,13 +34,6 @@
 </details>
 
 
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=gradient"/>
-  </a>
-  </p>
-
 - [X] Additional course __FPGA__ <details><summary></summary>
     - [X] [Critical path]()
     - [X] [D-latch, SR-latch, D-flipflop](https://github.com/Hollbrok/Verilog/tree/main/homework%201)
@@ -48,3 +41,12 @@
     - [X] [Gray counter with ROM](https://github.com/Hollbrok/Verilog/tree/main/homework%203)
     - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
 </details>
+
+<\br>
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=gradient"/>
+  </a>
+  </p>
+
