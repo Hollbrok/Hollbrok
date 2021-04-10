@@ -50,7 +50,6 @@
   </a>
   </p>
   
-<p align="right" >
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-  </p>
+
