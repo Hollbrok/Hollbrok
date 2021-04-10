@@ -44,9 +44,11 @@
 
 </br>
 
-<p align="center" >  
+<p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=gradient"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=dracula"/>
   </a>
   </p>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
