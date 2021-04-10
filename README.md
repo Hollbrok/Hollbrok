@@ -53,7 +53,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&layout=compact&theme=dracula"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=github-readme-stats&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=CPU_cpp_version"/>
 </a>
 
 
