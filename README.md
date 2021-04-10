@@ -62,12 +62,16 @@
 <a href="https://github.com/Hollbrok/v.2-of-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=v.2-of-calculator&theme=synthwave"/>
 </a>
+<a href="https://github.com/Hollbrok/List">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=List&theme=synthwave"/>
+</a>
 <a href="https://www.youtube.com/watch?v=bfNJHxZ8GYU&ab_channel=%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%D0%9C%D0%B8%D1%80-NewWorld">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&theme=synthwave"/>
 </a>
 <a href="https://www.youtube.com/watch?v=bfNJHxZ8GYU&ab_channel=%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%D0%9C%D0%B8%D1%80-NewWorld">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=synthwave" />
 </a>
+
 
 
 
