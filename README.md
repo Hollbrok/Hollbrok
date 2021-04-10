@@ -43,19 +43,11 @@
 </details>
 
 
-<p align="right" >  
-  <a href="https://pornhub.com"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=dracula"/>
-  </a>
-  </p> | #1 
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=dracula"/> | #1 
 --- | --- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&hide=TeX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | 301 
 
-<p align="right" >  
-  <a href="https://pornhub.com"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=dracula"/>
-  </a>
-  </p>
   
 
 
