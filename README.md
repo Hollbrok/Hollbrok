@@ -46,7 +46,14 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&hide=TeX&theme=gradient)](https://github.com/anuraghazra/github-readme-stats) <img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=gradient"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&hide=TeX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=dracula"/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=convoychat" />
+</a>
 
 
 
