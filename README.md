@@ -45,28 +45,28 @@
 </br>
 
 <a href="https://github.com/Hollbrok/CPU_cpp_version">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=CPU_cpp_version&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=CPU_cpp_version&theme=synthwave"/>
 </a>
 <a href="https://github.com/Hollbrok/CPU_C_VERSION">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=CPU_C_VERSION&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=CPU_C_VERSION&theme=synthwave"/>
 </a>
 <a href="https://github.com/Hollbrok/STACK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=STACK&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=STACK&theme=synthwave"/>
 </a>
 <a href="https://github.com/Hollbrok/Stack_cpp_version">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=Stack_cpp_version&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=Stack_cpp_version&theme=synthwave"/>
 </a>
 <a href="https://github.com/Hollbrok/Akinator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=Akinator&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=Akinator&theme=synthwave"/>
 </a>
 <a href="https://github.com/Hollbrok/calculations-for-LAB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=calculations-for-LAB&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=calculations-for-LAB&theme=synthwave"/>
 </a>
 <a href="https://pornhub.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&theme=synthwave"/>
 </a>
 <a href="https://pornhub.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=synthwave" />
 </a>
 
 
