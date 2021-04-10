@@ -31,8 +31,15 @@
     - [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_LABS/tree/main/labs%202%20sem)
     </details>
     
-    
 </details>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=gradient"/>
+  </a>
+  </p>
 
 - [X] Additional course __FPGA__ <details><summary></summary>
     - [X] [Critical path]()
