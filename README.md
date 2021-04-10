@@ -56,6 +56,18 @@
 <a href="https://github.com/Hollbrok/CPU_C_VERSION">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=CPU_C_VERSION&theme=dracula"/>
 </a>
+<a href="https://github.com/Hollbrok/STACK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=STACK&theme=dracula"/>
+</a>
+<a href="https://github.com/Hollbrok/Stack_cpp_version">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=Stack_cpp_version&theme=dracula"/>
+</a>
+<a href="https://github.com/Hollbrok/Akinator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=Akinator&theme=dracula"/>
+</a>
+<a href="https://github.com/Hollbrok/calculations-for-LAB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=calculations-for-LAB&theme=dracula"/>
+</a>
 
 
 
