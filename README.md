@@ -46,16 +46,18 @@
 </br>
 </br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://pornhub.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://pornhub.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hollbrok&layout=compact&theme=dracula"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=CPU_cpp_version"/>
+<a href="https://github.com/Hollbrok/CPU_cpp_version">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=CPU_cpp_version&theme=dracula"/>
 </a>
-
+<a href="https://github.com/Hollbrok/CPU_C_VERSION">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=CPU_C_VERSION&theme=dracula"/>
+</a>
 
 
 
