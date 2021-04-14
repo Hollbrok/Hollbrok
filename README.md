@@ -62,9 +62,6 @@
 <a href="https://github.com/Hollbrok/v.2-of-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=v.2-of-calculator&theme=synthwave"/>
 </a>
-<a href="https://github.com/Hollbrok/List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=List&theme=synthwave"/>
-</a>
 <a href="https://github.com/Hollbrok/SolveSquare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=SolveSquare&theme=synthwave"/>
 </a>
