@@ -24,6 +24,7 @@
     - [X] [Git](https://github.com/Hollbrok/test-rep/tree/master/Git)
     - [X] [GPIO](https://github.com/Hollbrok/Raspberry/tree/main/GPIO)
     - [X] [DAC](https://github.com/Hollbrok/Raspberry/tree/main/DAC)
+    - [X] [ADC](https://github.com/Hollbrok/Raspberry/tree/main/ADC)
 </details>
 
 - [X] __MIPT labs__ <details><summary></summary>
