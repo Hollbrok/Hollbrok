@@ -57,9 +57,6 @@
 <a href="https://github.com/Hollbrok/Stack_cpp_version">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=Stack_cpp_version&theme=synthwave"/>
 </a>
-<a href="https://github.com/Hollbrok/Akinator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=Akinator&theme=synthwave"/>
-</a>
 <a href="https://github.com/Hollbrok/v.2-of-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hollbrok&repo=v.2-of-calculator&theme=synthwave"/>
 </a>
