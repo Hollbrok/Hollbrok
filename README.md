@@ -12,8 +12,8 @@
             - [X] [__CPU_cpp__](https://github.com/Hollbrok/CPU_Cpp_version) 
         - [X] [__Calculator__](https://github.com/Hollbrok/v.2-of-calculator)
         - [X] [__List__ / pointers version](https://github.com/Hollbrok/List) (C++ version)
-        - [ ] [__Akinator__](https://github.com/Hollbrok/Akinator)
-        - [ ] Differentiator
+        - [X] [__Akinator__](https://github.com/Hollbrok/Akinator)
+        - [X] [__Differentiator__](https://github.com/Hollbrok/Differentiator)
         - [ ] Programming language
     </details>
 </details>
