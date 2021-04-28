@@ -13,6 +13,7 @@
         - [X] [__Calculator__](https://github.com/Hollbrok/v.2-of-calculator)
         - [X] [__List__ / pointers version](https://github.com/Hollbrok/List) (C++ version)
         - [X] [__Akinator__](https://github.com/Hollbrok/Akinator)
+        - [X] [__RayCasting__](https://github.com/Hollbrok/Raytracing)
         - [X] [__Differentiator__](https://github.com/Hollbrok/Differentiator)
         - [ ] Programming language
     </details>
