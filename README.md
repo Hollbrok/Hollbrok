@@ -1,11 +1,11 @@
 # My projects:
-- [ ] My projects for __ILAB__ course:<details><summary></summary>
+- [X] My projects for __ILAB__ course:<details><summary></summary>
     - [X] __1 semestr__: <details><summary></summary>
         - [X] [__Solve Square Equation__](https://github.com/Hollbrok/SolveSquare)
         - [X] [__Onegin__](https://github.com/Hollbrok/Onegin)
         - [X] [__Stack__](https://github.com/Hollbrok/STACK)
         </details>
-    - [ ] __2 semestr__ <details><summary></summary>
+    - [X] __2 semestr__ <details><summary></summary>
         - [X] [__CPU__](https://github.com/Hollbrok/CPU_C_VERSION)
         - [X] Рефакторинг прошлых проектор на __C++__
             - [X] [__Stack_cpp__](https://github.com/Hollbrok/Stack_cpp_version)
