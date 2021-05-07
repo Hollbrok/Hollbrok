@@ -7,9 +7,8 @@
         </details>
     - [X] __2 semestr__ <details><summary></summary>
         - [X] [__CPU__](https://github.com/Hollbrok/CPU_C_VERSION)
-        - [X] Рефакторинг прошлых проектор на __C++__
-            - [X] [__Stack_cpp__](https://github.com/Hollbrok/Stack_cpp_version)
-            - [X] [__CPU_cpp__](https://github.com/Hollbrok/CPU_Cpp_version) 
+        - [X] [__Stack_cpp__](https://github.com/Hollbrok/Stack_cpp_version)
+        - [X] [__CPU_cpp__](https://github.com/Hollbrok/CPU_Cpp_version) 
         - [X] [__Calculator__](https://github.com/Hollbrok/v.2-of-calculator)
         - [X] [__List__ / pointers version](https://github.com/Hollbrok/List) (C++ version)
         - [X] [__Akinator__](https://github.com/Hollbrok/Akinator)
