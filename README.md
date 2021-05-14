@@ -25,6 +25,7 @@
     - [X] [GPIO](https://github.com/Hollbrok/Raspberry/tree/main/GPIO)
     - [X] [DAC](https://github.com/Hollbrok/Raspberry/tree/main/DAC)
     - [X] [ADC](https://github.com/Hollbrok/Raspberry/tree/main/ADC)
+    - [X] [Capacitor (final project)](https://github.com/Hollbrok/Raspberry/tree/main/ADC)
 </details>
 
 - [X] __MIPT labs__ <details><summary></summary>
