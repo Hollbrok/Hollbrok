@@ -28,10 +28,15 @@
     - [X] [Capacitor (final project)](https://github.com/Hollbrok/Raspberry/tree/main/Capacitor)
 </details>
 
-- [X] __MIPT labs__ <details><summary></summary>
-    - [X] [1'st semestr](https://github.com/Hollbrok/MIPT_LABS/tree/main/labs%201%20sem)
-    - [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_LABS/tree/main/labs%202%20sem)
-    </details>
+- [X] __MIPT stuff__ <details><summary></summary>
+	- [X] LABS	<details><summary></summary>
+		    - [X] [1'st semestr](https://github.com/Hollbrok/MIPT_LABS/tree/main/labs%201%20sem)
+		- [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_LABS/tree/main/labs%202%20sem)
+		</details>
+	
+	- [X] lectures made with Latex of Znamenskaya L.N.  [2 semester](https://github.com/Panterrich/Matan_2_semester)
+		
+	</details>
     
 </details>
 
