@@ -47,10 +47,6 @@
     - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
 </details>
 
-<pre>
-<a href="my-url">Something</a>
-</pre>
-
 <!---
 
 </br>
