@@ -47,12 +47,9 @@
     - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
 </details>
 
-```C++
-int i = 5;
-<big><pre>
-**void** Click ([**Keycode**](#keycode) key) **const**
-</pre></big>
-```
+<pre>
+<a href="my-url">Something</a>
+</pre>
 
 <!---
 
