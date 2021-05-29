@@ -47,6 +47,8 @@
     - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
 </details>
 
+<!---
+
 </br>
 
 <a href="https://github.com/Hollbrok/CPU_cpp_version">
@@ -71,7 +73,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hollbrok&&show_icons=true&theme=synthwave" />
 </a>
 
-
+-->
 
 
 
