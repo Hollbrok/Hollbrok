@@ -29,7 +29,7 @@
 </details>
 
 - [X] __MIPT stuff__ <details><summary></summary>
-	- [X] LABS	<details><summary></summary>
+	- [X] [LABS](https://github.com/Hollbrok/MIPT_LABS)	<details><summary></summary>
 		- [X] [1'st semestr](https://github.com/Hollbrok/MIPT_LABS/tree/main/labs%201%20sem)
 		- [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_LABS/tree/main/labs%202%20sem)
 		</details>
