@@ -28,7 +28,7 @@
     - [X] [Capacitor (final project)](https://github.com/Hollbrok/Raspberry/tree/main/Capacitor)
 </details>
 
-- [X] __MIPT stuff__ <details><summary></summary>
+- [X] [__MIPT stuff__](https://github.com/Hollbrok/MIPT_STUFF) <details><summary></summary>
 	- [X] [LABS](https://github.com/Hollbrok/MIPT_STUFF)	<details><summary></summary>
 		- [X] [1'st semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%201%20sem)
 		- [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%202%20sem)
