@@ -19,9 +19,9 @@
 </details>
  
 - [ ] C++ Projects <details><summary></summary>
+    - [X] [__Akinator__(graphical version)](https://github.com/Hollbrok/AkinatorGraphical)
 	- [X] [__RayCasting__](https://github.com/Hollbrok/Raytracing)
-	- [ ] [__Game__](https://github.com/Hollbrok/MIPT-Pacman) (in progress)
-	- [ ] 
+	- [ ] [__MIPT-Pacman__](https://github.com/Hollbrok/MIPT-Pacman) (in progress)
 	</details>
 
 - [X] Homework for __GET__ (General engineering training)<details><summary></summary>
