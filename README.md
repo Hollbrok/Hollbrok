@@ -17,6 +17,12 @@
         - [X] [__Programming language__](https://github.com/Hollbrok/Prog-Lang)
     </details>
 </details>
+ 
+- [ ] C++ Projects <details><summary></summary>
+	- [X] [__RayCasting__](https://github.com/Hollbrok/Raytracing)
+	- [ ] [__Game__](https://github.com/Hollbrok/MIPT-Pacman) (in progress)
+	- [ ] 
+	</details>
 
 - [X] Homework for __GET__ (General engineering training)<details><summary></summary>
     - [X] [Libre Office](https://github.com/Hollbrok/test-rep/tree/master/LibreOffice)
@@ -37,7 +43,6 @@
 	</details>
     
 </details>
-
 
 - [X] Additional course __FPGA__ <details><summary></summary>
     - [X] [Critical path]()
