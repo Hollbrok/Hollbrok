@@ -2,7 +2,7 @@
 - [ ] My projects for __Lunev__ course:<details><summary></summary>
     - [ ] __1 semestr__: <details><summary></summary>
         - [x] [__Warm-up tasks__](https://bit.ly/3jRGi9Y)
-        - [ ] [__FIFO__](https://github.com/Hollbrok/System-Programming/tree/master/FIFO)
+        - [ ] [__FIFO__](https://bit.ly/3yQWZGB)
         - [ ] [__UNKNOWN__]()
         </details>
     - [ ] __2 semestr__ <details><summary></summary>
