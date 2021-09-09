@@ -93,6 +93,7 @@
 
 
 How I'm listening: <details><summary></summary>
+	
 <div id="vk_playlist_186797344_13"></div>
 <script type="text/javascript" src="https://vk.com/js/api/openapi.js?169"></script>
 <script type="text/javascript">
@@ -100,6 +101,7 @@ How I'm listening: <details><summary></summary>
     VK.Widgets.Playlist("vk_playlist_186797344_13", 186797344, 13,'d19ed6ae12318eae6e');
   }());
 </script>
+	
 </details> 
 
 
