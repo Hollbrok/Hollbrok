@@ -20,7 +20,6 @@ vk: vk.com/danik.princessa
 # My projects:
 
 PROJECTS: <details><summary></summary>
-
 - [X] DONE:<details><summary></summary>
     - [X] My projects for __ILAB__ course:<details><summary></summary>
         - [X] __1 semestr__: <details><summary></summary>
@@ -81,7 +80,6 @@ PROJECTS: <details><summary></summary>
         - [ ] [__MIPT-Pacman__](https://github.com/Hollbrok/MIPT-Pacman) (in progress)
         </details>
     </details>
-
 </details>
 
 <!---
