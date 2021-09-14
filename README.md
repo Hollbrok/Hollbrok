@@ -19,17 +19,17 @@ vk: vk.com/danik.princessa
 
 # My projects:
 
-- [X] DONE: <details><summary></summary>
+- [X] DONE:<details><summary></summary>
     - [ ] My projects for __Lunev__ course:<details><summary></summary>
         - [ ] __1 semestr__: <details><summary></summary>
             - [x] [__Warm-up tasks__](https://bit.ly/3jRGi9Y)
             - [ ] [__FIFO__](https://bit.ly/3yQWZGB)
             - [ ] [__UNKNOWN__]()
-        </details>
+            </details>
         - [ ] __2 semestr__ <details><summary></summary>
             - [ ] __UNKNOWN__
+            </details>
         </details>
-    </details>
     - [X] My projects for __ILAB__ course:<details><summary></summary>
         - [X] __1 semestr__: <details><summary></summary>
             - [X] [__Solve Square Equation__](https://github.com/Hollbrok/SolveSquare)
@@ -47,8 +47,8 @@ vk: vk.com/danik.princessa
             - [X] [__Differentiator__](https://github.com/Hollbrok/Differentiator)
             - [X] [__Programming language__](https://github.com/Hollbrok/Prog-Lang)
             </details>
+        </details>
     </details>
-</details>
 
 - [ ] C++ Projects <details><summary></summary>
     - [X] [__Akinator__(graphical version)](https://github.com/Hollbrok/AkinatorGraphical)
