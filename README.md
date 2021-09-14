@@ -19,7 +19,7 @@ vk: vk.com/danik.princessa
 
 # My projects:
 
-PROJECTS: <details><summary></summary>
+
 - [X] DONE:<details><summary></summary>
     - [X] My projects for __ILAB__ course:<details><summary></summary>
         - [X] __1 semestr__: <details><summary></summary>
@@ -59,7 +59,6 @@ PROJECTS: <details><summary></summary>
         - [X] [LABS](https://github.com/Hollbrok/MIPT_STUFF)	<details><summary></summary>
 		- [X] [1'st semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%201%20sem)
 		- [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%202%20sem)
-		</details>
         - [X] [lectures made with Latex of Znamenskaya L.N. 2 semester](https://github.com/Panterrich/Matan_2_semester)
         </details>
     </details>
@@ -80,7 +79,7 @@ PROJECTS: <details><summary></summary>
         - [ ] [__MIPT-Pacman__](https://github.com/Hollbrok/MIPT-Pacman) (in progress)
         </details>
     </details>
-</details>
+
 
 <!---
 
