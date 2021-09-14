@@ -17,7 +17,8 @@ Current additional courses:
 tg: @Hollbrok
 vk: vk.com/danik.princessa
 
-# My projects: <details><summary></summary>
+# My projects:
+<details><summary></summary>
 - [ ] My projects for __Lunev__ course:<details><summary></summary>
     - [ ] __1 semestr__: <details><summary></summary>
         - [x] [__Warm-up tasks__](https://bit.ly/3jRGi9Y)
@@ -70,10 +71,8 @@ vk: vk.com/danik.princessa
 		- [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%202%20sem)
 		</details>
 	- [X] [lectures made with Latex of Znamenskaya L.N. 2 semester](https://github.com/Panterrich/Matan_2_semester)	
-	</details>
-    
 </details>
-
+    
 - [X] Additional course __FPGA__ <details><summary></summary>
     - [X] [Critical path]()
     - [X] [D-latch, SR-latch, D-flipflop](https://github.com/Hollbrok/Verilog/tree/main/homework%201)
