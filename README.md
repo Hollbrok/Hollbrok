@@ -26,11 +26,12 @@ PROJECTS: <details><summary></summary>
         - [x] [__Warm-up tasks__](https://bit.ly/3jRGi9Y)
         - [ ] [__FIFO__](https://bit.ly/3yQWZGB)
         - [ ] [__UNKNOWN__]()
-        </details>
+    </details>
     - [ ] __2 semestr__ <details><summary></summary>
       	- [ ] __UNKNOWN__
     </details>
-</details>
+
+    </details>
 
 - [X] My projects for __ILAB__ course:<details><summary></summary>
     - [X] __1 semestr__: <details><summary></summary>
@@ -49,7 +50,7 @@ PROJECTS: <details><summary></summary>
         - [X] [__Differentiator__](https://github.com/Hollbrok/Differentiator)
         - [X] [__Programming language__](https://github.com/Hollbrok/Prog-Lang)
     </details>
-</details>
+    </details>
 
 - [ ] C++ Projects <details><summary></summary>
     - [X] [__Akinator__(graphical version)](https://github.com/Hollbrok/AkinatorGraphical)
@@ -65,7 +66,7 @@ PROJECTS: <details><summary></summary>
     - [X] [DAC](https://github.com/Hollbrok/Raspberry/tree/main/DAC)
     - [X] [ADC](https://github.com/Hollbrok/Raspberry/tree/main/ADC)
     - [X] [Capacitor (final project)](https://github.com/Hollbrok/Raspberry/tree/main/Capacitor)
-</details>
+    </details>
 
 - [X] [__MIPT stuff__](https://github.com/Hollbrok/MIPT_STUFF) <details><summary></summary>
 	- [X] [LABS](https://github.com/Hollbrok/MIPT_STUFF)	<details><summary></summary>
@@ -73,7 +74,7 @@ PROJECTS: <details><summary></summary>
 		- [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%202%20sem)
 		</details>
 	- [X] [lectures made with Latex of Znamenskaya L.N. 2 semester](https://github.com/Panterrich/Matan_2_semester)
-</details>
+    </details>
 
 - [X] Additional course __FPGA__ <details><summary></summary>
     - [X] [Critical path]()
@@ -81,7 +82,7 @@ PROJECTS: <details><summary></summary>
     - [X] [four-segment indicator + counter](https://github.com/Hollbrok/Verilog/tree/main/homework%202)
     - [X] [Gray counter with ROM](https://github.com/Hollbrok/Verilog/tree/main/homework%203)
     - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
-</details>
+    </details>
 
 
 </details>
