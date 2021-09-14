@@ -1,4 +1,23 @@
-# My projects:
+# INFO
+
+I'm a __2__'nd year student at __MIPT__. My name is Daniil Talshkevich.
+
+I finished different courses:
+- [X] __ILAB__ (1st year)
+
+Current additional courses:
+
+- [X] __ILAB__ (2nd year)
+- [X] __Lunev__ (OS course)
+- [X] __Compile technologies__ (by Ded)
+- [X] __Huawei__ (CPU and OS simulation)
+
+# My requisites
+
+tg: @Hollbrok
+vk: vk.com/danik.princessa
+
+# My projects: <details><summary></summary>
 - [ ] My projects for __Lunev__ course:<details><summary></summary>
     - [ ] __1 semestr__: <details><summary></summary>
         - [x] [__Warm-up tasks__](https://bit.ly/3jRGi9Y)
@@ -62,6 +81,10 @@
     - [X] [Gray counter with ROM](https://github.com/Hollbrok/Verilog/tree/main/homework%203)
     - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
 </details>
+
+</details>
+
+
 
 <!---
 
