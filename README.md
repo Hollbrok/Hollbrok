@@ -17,7 +17,9 @@ Current additional courses:
 tg: @Hollbrok
 vk: vk.com/danik.princessa
 
-# My projects: <details><summary></summary>
+# My projects:
+
+PROJECTS: <details><summary></summary>
 
 - [ ] My projects for __Lunev__ course:<details><summary></summary>
     - [ ] __1 semestr__: <details><summary></summary>
@@ -39,7 +41,7 @@ vk: vk.com/danik.princessa
     - [X] __2 semestr__ <details><summary></summary>
         - [X] [__CPU__](https://github.com/Hollbrok/CPU_C_VERSION)
         - [X] [__Stack_cpp__](https://github.com/Hollbrok/Stack_cpp_version)
-        - [X] [__CPU_cpp__](https://github.com/Hollbrok/CPU_Cpp_version) 
+        - [X] [__CPU_cpp__](https://github.com/Hollbrok/CPU_Cpp_version)
         - [X] [__Calculator__](https://github.com/Hollbrok/v.2-of-calculator)
         - [X] [__List__ / pointers version](https://github.com/Hollbrok/List) (C++ version)
         - [X] [__Akinator__](https://github.com/Hollbrok/Akinator)
@@ -48,7 +50,7 @@ vk: vk.com/danik.princessa
         - [X] [__Programming language__](https://github.com/Hollbrok/Prog-Lang)
     </details>
 </details>
- 
+
 - [ ] C++ Projects <details><summary></summary>
     - [X] [__Akinator__(graphical version)](https://github.com/Hollbrok/AkinatorGraphical)
 	- [X] [__RayCasting__](https://github.com/Hollbrok/Raytracing)
@@ -70,9 +72,9 @@ vk: vk.com/danik.princessa
 		- [X] [1'st semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%201%20sem)
 		- [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%202%20sem)
 		</details>
-	- [X] [lectures made with Latex of Znamenskaya L.N. 2 semester](https://github.com/Panterrich/Matan_2_semester)	
+	- [X] [lectures made with Latex of Znamenskaya L.N. 2 semester](https://github.com/Panterrich/Matan_2_semester)
 </details>
-    
+
 - [X] Additional course __FPGA__ <details><summary></summary>
     - [X] [Critical path]()
     - [X] [D-latch, SR-latch, D-flipflop](https://github.com/Hollbrok/Verilog/tree/main/homework%201)
@@ -80,6 +82,7 @@ vk: vk.com/danik.princessa
     - [X] [Gray counter with ROM](https://github.com/Hollbrok/Verilog/tree/main/homework%203)
     - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
 </details>
+
 
 </details>
 
