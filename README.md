@@ -15,12 +15,13 @@ Current additional courses:
 # My requisites
 
 tg: @Hollbrok
+
 vk: vk.com/danik.princessa
 
 # My projects:
 
 
-- [X] DONE:<details><summary></summary>
+- [X] __DONE__:<details><summary></summary>
     - [X] My projects for __ILAB__ course:<details><summary></summary>
         - [X] __1 semestr__: <details><summary></summary>
             - [X] [__Solve Square Equation__](https://github.com/Hollbrok/SolveSquare)
