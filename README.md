@@ -19,8 +19,7 @@ vk: vk.com/danik.princessa
 
 # My projects:
 
-PROJECTS: <details><summary></summary>
-
+PROJECTS:<details><summary></summary>
     - [ ] My projects for __Lunev__ course:<details><summary></summary>
         - [ ] __1 semestr__: <details><summary></summary>
             - [x] [__Warm-up tasks__](https://bit.ly/3jRGi9Y)
