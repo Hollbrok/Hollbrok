@@ -62,6 +62,7 @@ vk: vk.com/danik.princessa
         - [X] [lectures made with Latex of Znamenskaya L.N. 2 semester](https://github.com/Panterrich/Matan_2_semester)
         </details>
     </details>
+
 - [X] __NOT AT ALL__ (in progress):<details><summary></summary>
     - [ ] My projects for __Lunev__ course:<details><summary></summary>
         - [ ] __1 semestr__: <details><summary></summary>
