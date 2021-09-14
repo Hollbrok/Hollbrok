@@ -7,10 +7,10 @@ I finished different courses:
 
 Current additional courses:
 
-- [X] __ILAB__ (2nd year)
-- [X] __Lunev__ (OS course)
-- [X] __Compile technologies__ (by Ded)
-- [X] __Huawei__ (CPU and OS simulation)
+- [ ] __ILAB__ (2nd year)
+- [ ] __Lunev__ (OS course)
+- [ ] __Compile technologies__ (by Ded)
+- [ ] __Huawei__ (CPU and OS simulation)
 
 # My requisites
 
