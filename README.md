@@ -57,8 +57,9 @@ vk: vk.com/danik.princessa
         </details>
     - [X] [__MIPT stuff__](https://github.com/Hollbrok/MIPT_STUFF) <details><summary></summary>
         - [X] [LABS](https://github.com/Hollbrok/MIPT_STUFF)	<details><summary></summary>
-		- [X] [1'st semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%201%20sem)
-		- [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%202%20sem)
+            - [X] [1'st semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%201%20sem)
+            - [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%202%20sem)
+            </details>
         - [X] [lectures made with Latex of Znamenskaya L.N. 2 semester](https://github.com/Panterrich/Matan_2_semester)
         </details>
     </details>
