@@ -17,8 +17,8 @@ Current additional courses:
 tg: @Hollbrok
 vk: vk.com/danik.princessa
 
-# My projects:
-<details><summary></summary>
+# My projects: <details><summary></summary>
+
 - [ ] My projects for __Lunev__ course:<details><summary></summary>
     - [ ] __1 semestr__: <details><summary></summary>
         - [x] [__Warm-up tasks__](https://bit.ly/3jRGi9Y)
