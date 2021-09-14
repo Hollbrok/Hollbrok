@@ -29,8 +29,7 @@ PROJECTS: <details><summary></summary>
     - [ ] __2 semestr__ <details><summary></summary>
       	- [ ] __UNKNOWN__
     </details>
-
-    </details>
+</details>
 - [X] My projects for __ILAB__ course:<details><summary></summary>
     - [X] __1 semestr__: <details><summary></summary>
         - [X] [__Solve Square Equation__](https://github.com/Hollbrok/SolveSquare)
@@ -48,7 +47,7 @@ PROJECTS: <details><summary></summary>
         - [X] [__Differentiator__](https://github.com/Hollbrok/Differentiator)
         - [X] [__Programming language__](https://github.com/Hollbrok/Prog-Lang)
         </details>
-    </details>
+</details>
 </details>
 
 - [ ] C++ Projects <details><summary></summary>
