@@ -1,8 +1,9 @@
-# :information_source: INFO
+# INFO :information_source:
 
-I'm a __2__'nd year student at __MIPT__. My name is Daniil Talshkevich.
+I'm a __2__'nd year student at __MIPT__.
+My name is Daniil Talshkevich.
 
-I finished different courses:
+My finished courses:
 - [X] __ILAB__ (1st year)
 
 Current additional courses:
@@ -14,9 +15,9 @@ Current additional courses:
 
 # My requisites :mailbox:
 
- tg: @Hollbrok
+* tg: @Hollbrok
 
-vk: vk.com/danik.princessa
+* __[vk](vk.com/danik.princessa)__
 
 # My projects:
 
@@ -112,3 +113,12 @@ vk: vk.com/danik.princessa
 -->
 
 
+
+
+# Stats
+
+[![Hollbrok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollbrok&theme=dark&show_icons=true)
+
+<!-- <a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a> -->
