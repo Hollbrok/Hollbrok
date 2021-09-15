@@ -1,4 +1,4 @@
-# INFO
+# :information_source: INFO
 
 I'm a __2__'nd year student at __MIPT__. My name is Daniil Talshkevich.
 
@@ -12,9 +12,9 @@ Current additional courses:
 - [ ] __Compile technologies__ (by Ded)
 - [ ] __Huawei__ (CPU and OS simulation)
 
-# My requisites
+# My requisites :mailbox:
 
-tg: @Hollbrok
+ tg: @Hollbrok
 
 vk: vk.com/danik.princessa
 
