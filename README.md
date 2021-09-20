@@ -8,7 +8,7 @@ My finished courses:
 
 Current additional courses:
 
-- [ ] __ILAB__ (2nd year)
+- [ ] __ILAB__ (by Vladimirov) (2nd year)
 - [ ] __Lunev__ (OS course)
 - [ ] __Compile technologies__ (by Ded)
 - [ ] __Huawei__ (CPU and OS simulation)
