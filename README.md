@@ -9,7 +9,7 @@ My finished courses:
 Current additional courses:
 
 - [ ] __ILAB__ (by Vladimirov) (2nd year)
-- [ ] __Lunev__ (OS course)
+- [ ] [__Lunev__] (https://bit.ly/3CAS5Ql) (OS course)
 - [ ] __Compile technologies__ (by Ded)
 - [ ] __Huawei__ (CPU and OS simulation)
 
@@ -66,7 +66,7 @@ Current additional courses:
         </details>
     </details>
 - [X] __NOT AT ALL__ (in progress):<details><summary></summary>
-    - [ ] My projects for __Lunev__ course:<details><summary></summary>
+    - [ ] My projects for [__Lunev__](https://bit.ly/3CAS5Ql) course:<details><summary></summary>
         - [ ] __1 semestr__: <details><summary></summary>
             - [x] [__Warm-up tasks__](https://bit.ly/3jRGi9Y)
             - [ ] [__FIFO__](https://bit.ly/3yQWZGB)
