@@ -119,8 +119,8 @@ Current additional courses:
 
 [![Hollbrok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollbrok&theme=dark&show_icons=true)
 
-<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="500" />
 [![MIPT be like](https://github.com/Hollbrok/Hollbrok/blob/main/pics/mipt.png)](https://www.youtube.com/watch?v=CELn8XivR3c)
+<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="500" />
 
 
 <!-- <a href="https://github.com/MartinHeinz/MartinHeinz">
