@@ -117,7 +117,7 @@ Current additional courses:
 
 # Stats
 
-[![Hollbrok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollbrok&theme=dark&show_icons=true)
+![Hollbrok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollbrok&theme=dark&show_icons=true)
 
 <a href="https://www.youtube.com/watch?v=CELn8XivR3c" title="Gangsta's Paradise"><img src="https://github.com/Hollbrok/Hollbrok/blob/main/pics/mipt.png" width="500" height="250"></a>
 
