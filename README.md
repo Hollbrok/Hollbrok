@@ -113,6 +113,9 @@ Current additional courses:
 -->
 
 
+# MIPT
+
+[![MIPT be like](https://github.com/Hollbrok/Hollbrok/blob/main/pics/mipt.png)](https://www.youtube.com/watch?v=CELn8XivR3c)
 
 
 # Stats
