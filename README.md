@@ -11,7 +11,7 @@ Current additional courses:
 - [ ] __ILAB__ (by Vladimirov) (2nd year)
 - [ ] [__Lunev__](https://bit.ly/3CAS5Ql) (OS course)
 - [ ] __Compile technologies__ (by Ded)
-- [ ] __Huawei__ (CPU and OS simulation)
+- [ ] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation)
 
 # My requisites :mailbox:
 
