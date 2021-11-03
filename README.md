@@ -1,7 +1,7 @@
 # INFO :information_source:
 
 I'm a __2__'nd year student at __MIPT__.
-My name is Daniil Talshkevich.
+My name is Daniil Talashkevich.
 
 My finished courses:
 - [X] __ILAB__ (1st year)
