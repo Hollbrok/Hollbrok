@@ -1,7 +1,8 @@
 # INFO :information_source:
 
-I'm a __2__'nd year student at __MIPT__.
 My name is Daniil Talashkevich.
+I'm a __2__'nd year student at __MIPT__.
+Ie became the person of the year when I was 3 y.o. according to "The Times" magazine
 
 My finished courses:
 - [X] __ILAB__ (1st year)
