@@ -8,6 +8,8 @@ I've became the person of the year when I was 3 y.o. according to "The Times" ma
 
 # Courses
 
+There are my finished and also current projects, that I learn at MIPT.
+
 ## Finished
 
 - [X] __ILAB__ (1st year)
@@ -125,7 +127,7 @@ I've became the person of the year when I was 3 y.o. according to "The Times" ma
 
 ![Hollbrok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollbrok&theme=dark&show_icons=true)
 
-<a href="https://www.youtube.com/watch?v=CELn8XivR3c" title="Gangsta's Paradise"><img src="https://github.com/Hollbrok/Hollbrok/blob/main/pics/mipt.png" width="500" height="250"></a>
+<a href="https://www.youtube.com/watch?v=CELn8XivR3c" title="Gangsta's Paradise"><img src="https://github.com/Hollbrok/Hollbrok/blob/main/pics/mipt_logo.png" width="500" height="250"></a>
 
 <!-- <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
