@@ -9,9 +9,9 @@ My finished courses:
 
 Current additional courses:
 
-- [ ] __ILAB__ (by Vladimirov) (2nd year)
+<!--- - [ ] __ILAB__ (by Vladimirov) (2nd year) -->
 - [ ] [__Lunev__](https://bit.ly/3CAS5Ql) (OS course)
-- [ ] __Compile technologies__ (by Ded)
+<!--- - [ ] __Compile technologies__ (by Ded) -->
 - [ ] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation)
 
 # My requisites :mailbox:
@@ -22,8 +22,25 @@ Current additional courses:
 
 # My projects:
 
+- [X] __Current__:<details><summary></summary>
+    - [ ] My projects for [__Lunev__](https://bit.ly/3CAS5Ql) course:<details><summary></summary>
+        - [ ] __1 semestr__: <details><summary></summary>
+            - [x] [__Warm-up tasks__](https://bit.ly/3jRGi9Y)
+            - [ ] [__FIFO__](https://bit.ly/3yQWZGB)
+            - [ ] [__UNKNOWN__]()
+            </details>
+        - [ ] __2 semestr__ <details><summary></summary>
+            - [ ] __UNKNOWN__
+            </details>
+        </details>
+    - [ ] C++ Projects <details><summary></summary>
+        - [X] [__Akinator__(graphical version)](https://github.com/Hollbrok/AkinatorGraphical)
+        - [X] [__RayCasting__](https://github.com/Hollbrok/Raytracing)
+        - [ ] [__MIPT-Pacman__](https://github.com/Hollbrok/MIPT-Pacman) (in progress)
+        </details>
+    </details>
 
-- [X] __DONE__:<details><summary></summary>
+- [X] __Finished__:<details><summary></summary>
     - [X] My projects for __ILAB__ course:<details><summary></summary>
         - [X] __1 semestr__: <details><summary></summary>
             - [X] [__Solve Square Equation__](https://github.com/Hollbrok/SolveSquare)
@@ -42,6 +59,13 @@ Current additional courses:
             - [X] [__Programming language__](https://github.com/Hollbrok/Prog-Lang)
             </details>
         </details>
+    - [X] [__MIPT stuff__](https://github.com/Hollbrok/MIPT_STUFF) <details><summary></summary>
+        - [X] [LABS](https://github.com/Hollbrok/MIPT_STUFF)	<details><summary></summary>
+            - [X] [1'st semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%201%20sem)
+            - [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%202%20sem)
+            </details>
+        - [X] [lectures made with Latex of Znamenskaya L.N. 2 semester](https://github.com/Panterrich/Matan_2_semester)
+        </details>
     - [X] Homework for __GET__ (General engineering training)<details><summary></summary>
         - [X] [Libre Office](https://github.com/Hollbrok/test-rep/tree/master/LibreOffice)
         - [X] [MATLAB](https://github.com/Hollbrok/test-rep/tree/master/MATLAB)
@@ -57,30 +81,6 @@ Current additional courses:
         - [X] [four-segment indicator + counter](https://github.com/Hollbrok/Verilog/tree/main/homework%202)
         - [X] [Gray counter with ROM](https://github.com/Hollbrok/Verilog/tree/main/homework%203)
         - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
-        </details>
-    - [X] [__MIPT stuff__](https://github.com/Hollbrok/MIPT_STUFF) <details><summary></summary>
-        - [X] [LABS](https://github.com/Hollbrok/MIPT_STUFF)	<details><summary></summary>
-            - [X] [1'st semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%201%20sem)
-            - [X] [2'nd semestr](https://github.com/Hollbrok/MIPT_STUFF/tree/main/labs%202%20sem)
-            </details>
-        - [X] [lectures made with Latex of Znamenskaya L.N. 2 semester](https://github.com/Panterrich/Matan_2_semester)
-        </details>
-    </details>
-- [X] __NOT AT ALL__ (in progress):<details><summary></summary>
-    - [ ] My projects for [__Lunev__](https://bit.ly/3CAS5Ql) course:<details><summary></summary>
-        - [ ] __1 semestr__: <details><summary></summary>
-            - [x] [__Warm-up tasks__](https://bit.ly/3jRGi9Y)
-            - [ ] [__FIFO__](https://bit.ly/3yQWZGB)
-            - [ ] [__UNKNOWN__]()
-            </details>
-        - [ ] __2 semestr__ <details><summary></summary>
-            - [ ] __UNKNOWN__
-            </details>
-        </details>
-    - [ ] C++ Projects <details><summary></summary>
-        - [X] [__Akinator__(graphical version)](https://github.com/Hollbrok/AkinatorGraphical)
-        - [X] [__RayCasting__](https://github.com/Hollbrok/Raytracing)
-        - [ ] [__MIPT-Pacman__](https://github.com/Hollbrok/MIPT-Pacman) (in progress)
         </details>
     </details>
 
