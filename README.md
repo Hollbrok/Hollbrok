@@ -1,10 +1,18 @@
 # INFO :information_source:
 
+## Main info
+
 My name is Daniil Talashkevich.
 
 I'm a __2__'nd year student at __MIPT__.
 
 I've became the person of the year when I was 3 y.o. according to "The Times" magazine.
+
+## Requisites
+
+* [tg](https://tlgg.ru/Hollbrok) (@Hollbrok).
+
+* __[vk](vk.com/danik.princessa)__.
 
 # Courses
 
@@ -22,12 +30,8 @@ There are my finished and also current projects, that I learn at MIPT.
 <!--- - [ ] __Compile technologies__ (by Ded) -->
 - [ ] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation)
 
-# My requisites :mailbox:
 
-* tg: @Hollbrok
-
-* __[vk](vk.com/danik.princessa)__
-
+<!---
 # My projects:
 
 - [X] __Current__:<details><summary></summary>
@@ -91,7 +95,7 @@ There are my finished and also current projects, that I learn at MIPT.
         - [X] [Resynchronizer of clocks domains](https://github.com/Hollbrok/Verilog/tree/main/Lab1)
         </details>
     </details>
-
+-->
 
 <!---
 
