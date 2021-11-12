@@ -12,7 +12,8 @@ There are my finished and also current projects, that I learn at MIPT.
 
 ## Finished
 
-- [X] __ILAB__ (1st year)
+- [X] [__ILAB__](https://github.com/Hollbrok/Ilab-2020-21) (1st year)
+- [X] [__MIPT__](https://github.com/Hollbrok/MIPT_STUFF)
 
 ## Current
 
