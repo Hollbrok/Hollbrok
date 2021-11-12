@@ -4,10 +4,13 @@ My name is Daniil Talashkevich.
 I'm a __2__'nd year student at __MIPT__.
 I've became the person of the year when I was 3 y.o. according to "The Times" magazine.
 
-My finished courses:
+# Courses
+
+## Finished
+
 - [X] __ILAB__ (1st year)
 
-Current additional courses:
+## Current
 
 <!--- - [ ] __ILAB__ (by Vladimirov) (2nd year) -->
 - [ ] [__Lunev__](https://bit.ly/3CAS5Ql) (OS course)
