@@ -12,7 +12,7 @@ I've became the person of the year when I was 3 y.o. according to "The Times" ma
 
 * [__tg__](https://tlgg.ru/Hollbrok) (@Hollbrok).
 
-* [__vk__](https:/vk.com/danik.princessa).
+* [__vk__](https://vk.com/danik.princessa).
 
 # Courses
 
