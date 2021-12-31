@@ -21,7 +21,7 @@ There are my finished and also current projects, that I learn at MIPT.
 ## Finished
 
 - [X] [__ILAB__](https://github.com/Hollbrok/Ilab-2020-21) (__1st year__)
-- [X] [__MIPT__](https://github.com/Hollbrok/MIPT_STUFF) (__1st and 2nd year __)
+- [X] [__MIPT__](https://github.com/Hollbrok/MIPT_STUFF) (__1st and 2nd year__)
 
 - [X] [__Lunev__](https://github.com/Hollbrok/System-Programming) (OS course __3 sem__)
 - [X] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation __3 sem__)
