@@ -20,16 +20,18 @@ There are my finished and also current projects, that I learn at MIPT.
 
 ## Finished
 
-- [X] [__ILAB__](https://github.com/Hollbrok/Ilab-2020-21) (1st year)
-- [X] [__MIPT__](https://github.com/Hollbrok/MIPT_STUFF)
+- [X] [__ILAB__](https://github.com/Hollbrok/Ilab-2020-21) (__1st year__)
+- [X] [__MIPT__](https://github.com/Hollbrok/MIPT_STUFF) (__1st and 2nd year __)
+
+- [X] [__Lunev__](https://github.com/Hollbrok/System-Programming) (OS course __3 sem__)
+- [X] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation __3 sem__)
+
 
 ## Current
 
-<!--- - [ ] __ILAB__ (by Vladimirov) (2nd year) -->
-- [ ] [__Lunev__](https://bit.ly/3CAS5Ql) (OS course)
-<!--- - [ ] __Compile technologies__ (by Ded) -->
-- [ ] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation)
-
+- [ ] [__Lunev__](https://github.com/Hollbrok/System-Programming) (OS course __4 sem__)
+- [ ] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation __4 sem__)
+- [ ] [__Compile technologies__](https://github.com/Hollbrok/ISP_Huawei) (ISP_Huawei __4 sem__)
 
 <!---
 # My projects:
