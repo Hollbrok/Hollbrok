@@ -26,12 +26,9 @@ There are my finished and also current projects, that I learn at MIPT.
 - [X] [__Lunev__](https://github.com/Hollbrok/System-Programming) (OS course __3 sem__)
 - [X] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation __3 sem__)
 
+- [X] [__Lunev__](https://github.com/Hollbrok/System-Programming) (OS course __4 sem__)
+- [X] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation __4 sem__)
 
-## Current
-
-- [ ] [__Lunev__](https://github.com/Hollbrok/System-Programming) (OS course __4 sem__)
-- [ ] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation __4 sem__)
-- [ ] [__Compile technologies__](https://github.com/Hollbrok/ISP_Huawei) (course by ISP+Huawei __4 sem__)
 
 <!---
 # My projects:
