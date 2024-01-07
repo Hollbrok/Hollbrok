@@ -4,9 +4,7 @@
 
 My name is Daniil Talashkevich.
 
-I'm a __3__'nd year student at __MIPT__.
-
-I've became the person of the year when I was 3 y.o. according to "The Times" magazine.
+I'm a __4__'s year student at __MIPT__.
 
 ## Requisites
 
@@ -23,8 +21,8 @@ There are my finished and also current projects, that I learn at MIPT.
 - [X] [__ILAB__](https://github.com/Hollbrok/Ilab-2020-21) (__1st year__)
 - [X] [__MIPT__](https://github.com/Hollbrok/MIPT_STUFF) (__1st and 2nd year__)
 
-- [X] [__Lunev__](https://github.com/Hollbrok/System-Programming) (OS course __3/4 sem__)
-- [X] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation __3/4 sem__)
+- [X] [__Lunev__](https://github.com/Hollbrok/System-Programming) (OS course 2nd year sem)
+- [X] [__Huawei__](https://github.com/Hollbrok/Huawei) (CPU and OS simulation 2nd year)
 
 
 <!---
